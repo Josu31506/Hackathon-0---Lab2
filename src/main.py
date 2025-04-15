@@ -11,3 +11,6 @@ def calculate():
 
 if __name__ == "__main__":
     main()
+
+def sumar(a, b):
+    return a + b
