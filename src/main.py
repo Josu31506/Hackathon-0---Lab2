@@ -1,3 +1,6 @@
+def multiplicar(a, b):
+    return a * b
+
 def calculate():
     while True:
         operacion = input("Escribe la operación (ej: 2 + 2) o 'c' para limpiar: ").strip()
