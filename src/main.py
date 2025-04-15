@@ -1,4 +1,4 @@
-def main():
+def calculate():
     while True:
         operacion = input("Escribe la operación (ej: 2 + 2) o 'c' para limpiar: ").strip()
         if operacion.lower() == 'c':
